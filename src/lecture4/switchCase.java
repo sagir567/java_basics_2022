@@ -55,7 +55,6 @@ public class switchCase {
                     System.out.println("not  enough ");
                     break;
 
-
                 default:
                     System.out.println(" you have failed in the test");
             }

@@ -23,8 +23,6 @@ public class charTOasci {
 
             char temp = (char) i;
 
-
-
             if(i%2==0){
                 System.out.println(temp);
             }
