@@ -77,6 +77,8 @@ public class nestedLoop {
 
         }
 
+
+
         System.out.println(result);
 
 
