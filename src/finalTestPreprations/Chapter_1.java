@@ -7,7 +7,7 @@ public class Chapter_1 {
      generate 39 3 digits random numbers
       for each even number print the sum of his digits,
      print the average of all the generated numbers.
-
+        X
      */
     public static void Q1(){
         double average = 0,sum=0;
@@ -65,6 +65,7 @@ public class Chapter_1 {
                 System.out.println("all clients improved quality: "+improved);
                 System.out.println(collection);
                 System.out.println(counter+ "had more problems in the second month");
+
             }
 
 
